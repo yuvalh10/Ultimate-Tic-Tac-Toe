@@ -7,8 +7,8 @@ Limitation:
 The position in the sub-board that a player chooses determines the sub-board in which the next player will have to play.
 
 Example:
-If the first player places a character in the upper left corner of one of the sub-boards, the next player must place a character in the same sub-board,
-unless there are no empty spaces in that sub-board (in which case they can choose a different sub-board as they wish).
+	If the first player places a character in the upper left corner of one of the sub-boards, the next player must place a character in the same sub-board,
+	unless there are no empty spaces in that sub-board (in which case they can choose a different sub-board as they wish).
 
 To win a certain sub-board, you must create a straight sequence (perpendicular, horizontal, or diagonal) of length 3. You can continue playing
 in the sub-board even after one of the players has won it (in the remaining free spaces).
