@@ -1,0 +1,10 @@
+This folder contains 3 code files:
+
+Main.c:
+The entry point in the game.
+
+Headers.c:
+contains moslty declarations of functions and libraries
+
+Implementaion.c:
+The implemtaion of every function in our game.
